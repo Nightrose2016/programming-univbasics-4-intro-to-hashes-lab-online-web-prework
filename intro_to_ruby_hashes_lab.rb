@@ -11,7 +11,7 @@ def pioneer
 end
 
 def id_generator
- id_generator = {:id => "1", fairy: "tooth"}
+ id_generator = {1 => "toe"}
 end
 
 def my_hash_creator(key, value)
